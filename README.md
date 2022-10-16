@@ -4,7 +4,7 @@
         .  
           .  
             .  
-</span>   &nbspace                   *empty                 <span>  
+</span>   &nbsp                  *empty                 <span>  
               .  
                 .  
                   .  
