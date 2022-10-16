@@ -4,7 +4,7 @@
         .  
           .  
             .  
-</span>   &nbsp                  *empty                 <span>  
+&#8194      *empty  
               .  
                 .  
                   .  
