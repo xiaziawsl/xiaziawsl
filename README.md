@@ -4,7 +4,7 @@
         .  
           .  
             .  
-30px</span>*empty  <span>
+</span>*empty  <span>
               .  
                 .  
                   .  
